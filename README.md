@@ -8,6 +8,9 @@ cuento con la capacidad de codificación para diseñar e implementar diversas so
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=selenium)
+![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=cucumber)
+![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=appium)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhinestroza&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
